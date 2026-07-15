@@ -51,6 +51,3 @@ However, if you find a better or more optimized approach, feel free to open an I
 
 - LinkedIn: https://linkedin.com/in/ommisalll
 
----
-
-> **"Consistency beats intensity. One problem every day is better than 100 problems in one day."**
